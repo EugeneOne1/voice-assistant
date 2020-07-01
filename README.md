@@ -4,7 +4,7 @@
 ### Сборка из исходного кода
 Клонируем репозиторий:
 ```sh
-$ git clone https://github.com/mlnchk/voice-assistant.git
+$ git clone https://github.com/EugeneOne1/voice-assistant.git
 ```
 
 Создаем виртуальное окружение:
